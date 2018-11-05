@@ -1,0 +1,16 @@
+insert_job: jobname    job_type: cmd
+description: Delete files in the x drive older than 60 days
+machine: machinename
+owner: ownername
+group: P4
+application: applicationname
+max_run_alarm: 0
+alarm_if_fail: n
+date_conditions: y
+timezone: US/Eastern
+days_of_week: su
+start_times: 23:59
+send_notification: n
+std_out_file: yourdirectoy/log.log
+std_err_file: yourdirectory/log.log
+command: powershell -ExecutionPolicy ByPass -command nameoffile.ps1
