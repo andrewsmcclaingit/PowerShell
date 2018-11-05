@@ -1,0 +1,41 @@
+09/04/2018 09:56:29 
+
+Deleting files that are 60 days older than 04-Sep-2018
+
+The following files were found: 
+
+C:\delete\delete2\D&D 3.5 - Weapons of Legacy [OEF].pdf
+C:\delete\delete2\Greenshot-INSTALLER-1.2.10.6-RELEASE.exe
+C:\delete\delete2\JavaSetup8u171.exe
+C:\delete\delete2\JavaSetup8u171TEST.exe
+C:\delete\delete2\JavaSetup8u171_l.exe
+C:\delete\delete2\delete3\Greenshot-INSTALLER-1.2.10.6-RELEASE.exe
+C:\delete\delete2\delete3\JavaSetup8u171.exe
+C:\delete\delete2\delete3\JavaSetup8u171TEST.exe
+C:\delete\delete2\delete3\JavaSetup8u171_l.exe
+
+Total number of files: 9
+
+ ---------------------- 
+
+Deletion for C:\delete\delete2\D&D 3.5 - Weapons of Legacy [OEF].pdf FAILED
+Cannot remove item C:\delete\delete2\D&D 3.5 - Weapons of Legacy [OEF].pdf: The process cannot access the file 'C:\delete\delete2\D&D 3.5 - Weapons of Legacy [OEF].pdf' because it is being used by another process.
+
+Deletion for C:\delete\delete2\Greenshot-INSTALLER-1.2.10.6-RELEASE.exe SUCCESS
+
+Deletion for C:\delete\delete2\JavaSetup8u171.exe SUCCESS
+
+Deletion for C:\delete\delete2\JavaSetup8u171TEST.exe SUCCESS
+
+Deletion for C:\delete\delete2\JavaSetup8u171_l.exe SUCCESS
+
+Deletion for C:\delete\delete2\delete3\Greenshot-INSTALLER-1.2.10.6-RELEASE.exe SUCCESS
+
+Deletion for C:\delete\delete2\delete3\JavaSetup8u171.exe SUCCESS
+
+Deletion for C:\delete\delete2\delete3\JavaSetup8u171TEST.exe SUCCESS
+
+Deletion for C:\delete\delete2\delete3\JavaSetup8u171_l.exe SUCCESS
+
+
+Total number of files deleted successfully: 8 of 9
